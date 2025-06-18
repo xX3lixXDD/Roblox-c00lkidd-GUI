@@ -1,5 +1,2 @@
 # Roblox-c00lkidd-GUI
-Roblox c00lkidd GUI : loadstring(game:GetObjects("rbxassetid://8127297852")[1].Source)()
-
-
-https://www.youtube.com/watch?v=wJ8HJanJ0V0
+script : loadstring(game:HttpGet("https://raw.githubusercontent.com/hyperionhax/c00lgui/refs/heads/main/CoolGui.lua"))()
